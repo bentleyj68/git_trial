@@ -1,2 +1,2 @@
 # git_trial
-# this is a test 2a
+# this is a test
